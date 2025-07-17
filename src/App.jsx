@@ -24,7 +24,7 @@ const App = () => {
       title: "Finetuned ResNet-18 model for glitch detection on images",
       description: "Developed a binary image classification model to detect glitches in video frames by fine-tuning a pretrained ResNet-18 on a custom dataset.",
       techStack: ["Python", "PyTorch", "ResNet", "Computer Vision"],
-      githubLink: "https://github.com/yourusername/recommendation-system",
+      githubLink: "https://github.com/praveengtm/Glitch-detection-ResNet",
       liveDemoLink: "#" // Placeholder
     },
     {
